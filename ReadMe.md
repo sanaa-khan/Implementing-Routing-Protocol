@@ -5,3 +5,6 @@
   4: Select whatever you wish the clients to do <br> <br>
   
 <b> Doesn't require anything more than a C++ compiler and a shell </b>
+
+## Contact
+Need help? Got any queries? Feel free to hit me up at sanakahnn@gmail.com.
